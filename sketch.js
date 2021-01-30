@@ -9,7 +9,6 @@ var database;
 var form, player, game;
 
 var cars, car1, car2, car3, car4;
-var plY;
 var track, car1_img, car2_img, car3_img, car4_img;
 
 function preload() {
